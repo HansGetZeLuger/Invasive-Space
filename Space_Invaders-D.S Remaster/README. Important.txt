@@ -1,0 +1,1 @@
+Due to technical difficulties please run space invaders with python idle, for some reason running the .exe doesn't add the edited text

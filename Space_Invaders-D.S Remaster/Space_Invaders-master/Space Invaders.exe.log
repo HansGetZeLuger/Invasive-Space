@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "spaceinvaders.py", line 22, in <module>
+    IMAGES 		= {name: image.load("images/{}.png".format(name)).convert_alpha()
+  File "spaceinvaders.py", line 22, in <dictcomp>
+    IMAGES 		= {name: image.load("images/{}.png".format(name)).convert_alpha()
+pygame.error: Couldn't open images/explosionpurple.png
